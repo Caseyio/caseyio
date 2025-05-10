@@ -1,6 +1,4 @@
-# caseyio.github.io
-My portfolio
-# 👋 Hi, I'm Casey Ortiz
+# Hi - I'm Casey Ortiz
 
 **Data Analyst | ML-Enabled Strategist | Ex-Amazon Leader**  
 Annapolis, MD | kcarlos.ortiz@gmail.com | [LinkedIn](https://linkedin.com/in/kco1)
