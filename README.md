@@ -5,6 +5,7 @@
   <b>Data Analyst | Ex-Amazon Leader | ML-Enabled Strategist</b><br>
   Annapolis, MD · kcarlos.ortiz@gmail.com · <a href="https://linkedin.com/in/kco1">LinkedIn</a>
 </p>
+
 ![Google Cert](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
@@ -53,9 +54,10 @@ I’m currently completing the Google Data Analytics Certificate and have recent
 
 ## GitHub Stats
 
-![Casey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caseyio&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyio&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=caseyio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseyio&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
 
 ---
 
