@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Casey Ortiz 👋</h1>
+<h1 align="center">Hi, I'm Casey Ortiz </h1>
 <p align="center">
   <b>Data Analyst | Ex-Amazon Leader | ML-Enabled Strategist</b><br>
   Annapolis, MD · kcarlos.ortiz@gmail.com · <a href="https://linkedin.com/in/kco1">LinkedIn</a>
@@ -14,7 +14,7 @@ I’m currently completing the Google Data Analytics Certificate and have recent
 
 ---
 
-### 📁 Featured Projects
+### Featured Projects
 
 #### [Supply Chain Delivery Prediction](https://github.com/caseyio/supply-chain-capstone)
 - Cleaned and transformed 10K+ rows using R (`dplyr`, `readr`)
