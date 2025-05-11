@@ -5,7 +5,9 @@
   <b>Data Analyst | Ex-Amazon Leader | ML-Enabled Strategist</b><br>
   Annapolis, MD · kcarlos.ortiz@gmail.com · <a href="https://linkedin.com/in/kco1">LinkedIn</a>
 </p>
-
+![Google Cert](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
 ---
 
 ### About Me
@@ -46,6 +48,14 @@ I’m currently completing the Google Data Analytics Certificate and have recent
 
 - **Google Data Analytics Certificate** *(Coursera, May 2025)*  
 - **Cornell Project Management Certificate**
+
+---
+
+## GitHub Stats
+
+![Casey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caseyio&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caseyio&layout=compact)
 
 ---
 
