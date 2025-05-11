@@ -1,46 +1,61 @@
-# Hi - I'm Casey Ortiz
-
-**Data Analyst | ML-Enabled Strategist | Ex-Amazon Leader**  
-Annapolis, MD | kcarlos.ortiz@gmail.com | [LinkedIn](https://linkedin.com/in/kco1)
-
-I'm a former Amazon and military operations leader pivoting into data analytics and machine learning. I bring 10+ years of experience in leading teams, optimizing systems, and driving outcomes — now re-focused through the lens of data. I'm currently completing the Google Data Analytics Certificate and have recently built end-to-end analytics and modeling projects using Python, R, SQL, and visualization tools.
-
----
-
-## Featured Projects
-
-### [Supply Chain Delivery Prediction](https://github.com/caseyio/supply-chain-capstone)
-- Built classification models (LogReg, XGBoost, Decision Tree) to predict late deliveries
-- Visualized insights using `ggplot2` and `seaborn`, and deployed results to [Kaggle](https://www.kaggle.com/code/caseyortiz/supply-chain-delivery-analysis-r-python)
-- Project includes full data wrangling, EDA, modeling, and business storytelling
-
-### [Insurance Cost Modeling (Kaggle - 2nd Place)](https://github.com/caseyio/insurance-cost-model)
-- Ranked 2nd in a Kaggle RMSLE competition using XGBoost, LightGBM, and Optuna
-- Engineered features and tuned hyperparameters to reduce model error by 13%
-- Includes clean pipeline, metric tracking, and feature importance analysis
+<h1 align="center">Hi, I'm Casey Ortiz 👋</h1>
+<p align="center">
+  <b>Data Analyst | Ex-Amazon Leader | ML-Enabled Strategist</b><br>
+  Annapolis, MD · kcarlos.ortiz@gmail.com · <a href="https://linkedin.com/in/kco1">LinkedIn</a>
+</p>
 
 ---
 
-## Skills & Tools
+### About Me
 
-**Languages & Libraries:** Python (pandas, scikit-learn, XGBoost), R (dplyr, ggplot2), SQL  
-**Data Viz & BI:** Seaborn, Tableau, Power BI, ggplot2  
-**Certifications:**  
-- Google Data Analytics Certificate *(expected May 2025)*  
-- Cornell Project Management Certificate  
+I'm a former Amazon and military operations leader pivoting into data analytics and machine learning. I bring 10+ years of experience building teams, optimizing systems, and driving strategic decisions — now powered by Python, R, and real-world data.
+
+I’m currently completing the Google Data Analytics Certificate and have recently built full-scale analytics and ML projects covering supply chain optimization and predictive modeling. I enjoy tackling messy data, building sharp visualizations, and delivering insights that drive action.
 
 ---
 
-## About This Portfolio
+### 📁 Featured Projects
 
-This profile is a central place to explore my work in analytics, machine learning, and data storytelling. I’ll be adding new projects covering customer churn, marketing analytics, and dashboarding over the coming weeks.
+#### [Supply Chain Delivery Prediction](https://github.com/caseyio/supply-chain-capstone)
+- Cleaned and transformed 10K+ rows using R (`dplyr`, `readr`)
+- Built binary classification models (LogReg, Decision Tree, XGBoost)
+- Visualized key insights using `ggplot2`, `seaborn`, and Python dashboards
+- Published on [Kaggle](https://www.kaggle.com/code/your-kaggle-notebook-link)
 
-If you're a recruiter, collaborator, or fellow analyst — feel free to [connect with me](https://linkedin.com/in/kco1)!
+#### [Insurance Cost Modeling (Kaggle – 2nd Place)](https://github.com/caseyio/insurance-cost-model)
+- Used LightGBM and Optuna for model tuning and performance improvement
+- Achieved 13% RMSLE improvement through engineered features and optimization
+- Shared clean notebooks with documented feature importance and insights
 
 ---
 
-## Contact Me
+### Tools & Technologies
+
+| Category | Tools |
+|---------|-------|
+| **Languages** | Python, R, SQL |
+| **Libraries** | pandas, scikit-learn, XGBoost, ggplot2, dplyr, seaborn |
+| **BI & Viz** | Tableau, Power BI, matplotlib, ggplot2 |
+| **Other** | GitHub, Excel, Agile, AWS (Ops context) |
+
+---
+
+### Certifications
+
+- **Google Data Analytics Certificate** *(Coursera, May 2025)*  
+- **Cornell Project Management Certificate**
+
+---
+
+### Contact
 
 - kcarlos.ortiz@gmail.com  
 - [LinkedIn](https://linkedin.com/in/kco1)  
-- [Kaggle](https://www.kaggle.com/caseyortiz)
+- [Kaggle](https://www.kaggle.com/caseyortiz)  
+- [GitHub Projects](https://github.com/caseyio?tab=repositories)
+
+---
+
+<p align="center">
+  <i>"Turning messy data into meaningful insights."</i>
+</p>
