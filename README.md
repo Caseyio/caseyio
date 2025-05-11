@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Casey Ortiz – Data Analytics & Machine Learning Banner" width="100%">
 </p>
 <p align="center">
-  <b>Data Analyst | Ex-Amazon Leader | ML-Enabled Strategist</b><br>
+  <b>Data Analyst | Ex-Amazon Ops Leader | ML-Enabled Strategist</b><br>
   Annapolis, MD · kcarlos.ortiz@gmail.com · <a href="https://linkedin.com/in/kco1">LinkedIn</a>
 </p>
 
