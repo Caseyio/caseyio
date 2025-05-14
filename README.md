@@ -39,7 +39,7 @@ I've completed the Google Data Analytics Certificate and recently delivered full
 - Visualized key insights with `ggplot2` and Python dashboards  
   ➤ [Kaggle Notebook]([https://www.kaggle.com/code/your-kaggle-notebook-link](https://www.kaggle.com/code/caseyortiz/supply-chain-delivery-analysis-r-python))
 
-#### [Insurance Cost Modeling (Kaggle – 2nd Place)]
+#### Insurance Cost Modeling (Kaggle – 2nd Place)
 > *Advanced regression project with LightGBM and Optuna tuning*
 
 - Used LightGBM + Optuna to achieve a 13% RMSLE improvement
