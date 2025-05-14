@@ -67,12 +67,6 @@ I've completed the Google Data Analytics Certificate and recently delivered full
 
 ### GitHub Stats
 
-> ⚠️ GitHub language stats don’t currently detect R/Python due to file types used (`.Rmd`, `.ipynb`).  
-> To reflect your true skills, see projects and notebooks above.
-
-<!-- You can remove this stats block if it feels misleading -->
-
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caseyio&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseyio&layout=compact&langs_count=10&theme=tokyonight" />
