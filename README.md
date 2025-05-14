@@ -8,65 +8,85 @@
 
 ![Google Cert](https://img.shields.io/badge/Google%20Data%20Analytics-Certified-blue)
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
+![R](https://img.shields.io/badge/R-Analytics-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
 ---
 
 ### About Me
 
-I'm a former Amazon and military operations leader pivoting into data analytics and machine learning. I bring 10+ years of experience building teams, optimizing systems, and driving strategic decisions — now powered by Python, R, and real-world data.
+I'm a former Amazon and military operations leader pivoting into **data analytics and machine learning**. I bring 10+ years of experience building teams and driving high-stakes decisions — now powered by Python, R, and real-world data.
 
-I’m currently completing the Google Data Analytics Certificate and have recently built full-scale analytics and ML projects covering supply chain optimization and predictive modeling. I enjoy tackling messy data, building sharp visualizations, and delivering insights that drive action.
+I've completed the Google Data Analytics Certificate and recently delivered full-scale analytics and ML projects in supply chain optimization, federal Health IT bidding, and insurance cost modeling. I love transforming messy data into meaningful, strategic insights.
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
+
+#### [Federal Health IT Bid Prediction](https://github.com/caseyio/federal-bid-prediction)
+> *Analytics case study aligned to federal capture roles like DLH's Capture Manager I*
+
+- Built a bid prediction model using 43,000+ historical contract awards (USAspending.gov)
+- Combined R (data prep) and Python (XGBoost, SHAP, PDP++) for predictive modeling
+- Deployed 2 Streamlit apps for real-world use by capture and proposal teams  
+  ➤ [View App](https://ay7jcdeztbpknhyxxbn5h3.streamlit.app) | [Bid Range Tool](https://federal-healthit-bid-predictor-mzxes68t2cusms5kmjuyyr.streamlit.app)
 
 #### [Supply Chain Delivery Prediction](https://github.com/caseyio/supply-chain-capstone)
+> *Capstone project using classification to predict supply chain disruptions*
+
 - Cleaned and transformed 10K+ rows using R (`dplyr`, `readr`)
 - Built binary classification models (LogReg, Decision Tree, XGBoost)
-- Visualized key insights using `ggplot2`, `seaborn`, and Python dashboards
-- Published on [Kaggle](https://www.kaggle.com/code/your-kaggle-notebook-link)
+- Visualized key insights with `ggplot2` and Python dashboards  
+  ➤ [Kaggle Notebook]([https://www.kaggle.com/code/your-kaggle-notebook-link](https://www.kaggle.com/code/caseyortiz/supply-chain-delivery-analysis-r-python))
 
-#### [Insurance Cost Modeling (Kaggle – 2nd Place)](https://github.com/caseyio/insurance-cost-model)
-- Used LightGBM and Optuna for model tuning and performance improvement
-- Achieved 13% RMSLE improvement through engineered features and optimization
-- Shared clean notebooks with documented feature importance and insights
+#### [Insurance Cost Modeling (Kaggle – 2nd Place)]
+> *Advanced regression project with LightGBM and Optuna tuning*
+
+- Used LightGBM + Optuna to achieve a 13% RMSLE improvement
 
 ---
 
 ### Tools & Technologies
 
-| Category | Tools |
-|---------|-------|
+| Category      | Tools |
+|---------------|-------|
 | **Languages** | Python, R, SQL |
-| **Libraries** | pandas, scikit-learn, XGBoost, ggplot2, dplyr, seaborn |
-| **BI & Viz** | Tableau, Power BI, matplotlib, ggplot2 |
-| **Other** | GitHub, Excel, Agile, AWS (Ops context) |
+| **ML & Stats**| scikit-learn, XGBoost, LightGBM, SHAP, Optuna |
+| **Data Prep** | pandas, dplyr, janitor |
+| **Visualization** | ggplot2, seaborn, matplotlib, Power BI, Tableau |
+| **Other**     | GitHub, Streamlit, Excel, Agile, AWS (Ops context) |
 
 ---
 
 ### Certifications
 
-- **Google Data Analytics Certificate** *(Coursera, May 2025)*  
+- **Google Data Analytics Certificate** *(Completed May 2025)*  
 - **Cornell Project Management Certificate**
 
 ---
 
-## GitHub Stats
+### GitHub Stats
 
+> ⚠️ GitHub language stats don’t currently detect R/Python due to file types used (`.Rmd`, `.ipynb`).  
+> To reflect your true skills, see projects and notebooks above.
+
+<!-- You can remove this stats block if it feels misleading -->
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caseyio&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caseyio&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
+-->
 
 ---
 
-### Contact
+### 📫 Contact
 
-- kcarlos.ortiz@gmail.com  
-- [LinkedIn](https://linkedin.com/in/kco1)  
-- [Kaggle](https://www.kaggle.com/caseyortiz)  
-- [GitHub Projects](https://github.com/caseyio?tab=repositories)
+- 📧 kcarlos.ortiz@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/kco1)  
+- 🔗 [Kaggle](https://www.kaggle.com/caseyortiz)  
+- 🔗 [GitHub Projects](https://github.com/caseyio?tab=repositories)
 
 ---
 
